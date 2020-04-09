@@ -1,4 +1,4 @@
-# covidntn
+# Covid19 News App
 
 A new Flutter project.
 
