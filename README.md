@@ -25,4 +25,4 @@ samples, guidance on mobile development, and a full API reference.
 ![GitHub Logo](https://github.com/shangar19/Covid19/blob/master/Screesho03.png)
 
 ## APK Download in here
-[App APK](https://mega.nz/file/y44xXC7Z#0Uzo0YPat_-Rm3_B6zk1BOs9jNCqDvxD0-mXLJkvxaA)
+[APK Download](https://mega.nz/file/y44xXC7Z#0Uzo0YPat_-Rm3_B6zk1BOs9jNCqDvxD0-mXLJkvxaA)
