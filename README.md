@@ -15,4 +15,4 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-- [Image of Covis19]()
+- [Image of Covis19](https://github.com/shangar19/Covid19/blob/master/app_icon.png)
