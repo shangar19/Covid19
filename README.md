@@ -1,3 +1,5 @@
+![GitHub Logo](https://github.com/shangar19/Covid19/blob/master/LOGO.png)
+
 # Covid19 News App
 
 A new Flutter project.
